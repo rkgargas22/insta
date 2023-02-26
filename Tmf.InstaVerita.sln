@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tmf.InstaVerita.Api", "Tmf.InstaVerita.Api\Tmf.InstaVerita.Api.csproj", "{CECB55EC-2505-4490-9A2A-F4B3492BA749}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tmf.InstaVerita.Core", "Tmf.InstaVerita.Core\Tmf.InstaVerita.Core.csproj", "{C1437844-50A5-4435-A12D-378768EB2200}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tmf.InstaVerita.Infrastructure", "Tmf.InstaVerita.Infrastructure\Tmf.InstaVerita.Infrastructure.csproj", "{7056582F-8E9D-4392-8AF9-D2AD02B9887E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tmf.InstaVerita.Manager", "Tmf.InstaVerita.Manager\Tmf.InstaVerita.Manager.csproj", "{DB06D590-FCB2-4BAE-A251-6F8EFF64A62F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tmf.InstaVerita.Test", "Tmf.InstaVerita.Test\Tmf.InstaVerita.Test.csproj", "{E9A6391E-E687-47B5-8614-CD374C60712B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tmf.Logs", "Tmf.Logs\Tmf.Logs.csproj", "{7962A4B5-EAAD-4923-B690-F8BECD01857C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CECB55EC-2505-4490-9A2A-F4B3492BA749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECB55EC-2505-4490-9A2A-F4B3492BA749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECB55EC-2505-4490-9A2A-F4B3492BA749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECB55EC-2505-4490-9A2A-F4B3492BA749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1437844-50A5-4435-A12D-378768EB2200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1437844-50A5-4435-A12D-378768EB2200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1437844-50A5-4435-A12D-378768EB2200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1437844-50A5-4435-A12D-378768EB2200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7056582F-8E9D-4392-8AF9-D2AD02B9887E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7056582F-8E9D-4392-8AF9-D2AD02B9887E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7056582F-8E9D-4392-8AF9-D2AD02B9887E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7056582F-8E9D-4392-8AF9-D2AD02B9887E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB06D590-FCB2-4BAE-A251-6F8EFF64A62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB06D590-FCB2-4BAE-A251-6F8EFF64A62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB06D590-FCB2-4BAE-A251-6F8EFF64A62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB06D590-FCB2-4BAE-A251-6F8EFF64A62F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A6391E-E687-47B5-8614-CD374C60712B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A6391E-E687-47B5-8614-CD374C60712B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A6391E-E687-47B5-8614-CD374C60712B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A6391E-E687-47B5-8614-CD374C60712B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7962A4B5-EAAD-4923-B690-F8BECD01857C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7962A4B5-EAAD-4923-B690-F8BECD01857C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7962A4B5-EAAD-4923-B690-F8BECD01857C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7962A4B5-EAAD-4923-B690-F8BECD01857C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {675538A7-BF52-4139-BE9B-B2514D28A676}
+	EndGlobalSection
+EndGlobal
